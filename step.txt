@@ -1,0 +1,12 @@
+npx create-react-app my-app
+
+
+npm install react-router-dom                        
+
+ PORT=3001 npm start    
+
+npm install axios
+
+npm run build
+
+npm start     
